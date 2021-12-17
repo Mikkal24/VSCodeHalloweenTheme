@@ -1,8 +1,10 @@
-# Halloween Theme
+# 🎃 Halloween Theme 🎃
 
-### This theme is heavily inspried by Wes Bos' Cobalt 2 Theme. I basically just changed a few colors around to make it spooky. Check out his theme here => https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2
+### This theme is heavily inspried by Wes Bos' Cobalt 2 Theme. I basically just changed a few colors around to make it spooky 🎃. Check out his theme here => https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2
 
-![Halloween Theme Preview](./images/Screenshot 2021-12-17 090516.png)
+
+
+![Halloween Theme Preview](https://raw.githubusercontent.com/Mikkal24/VSCodeHalloweenTheme/master/images/Screenshot%202021-12-17%20090516.png)
 
 
 
