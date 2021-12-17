@@ -9,7 +9,7 @@
     "description": "A Halloween Theme for VSCode",
     "version": "0.0.1",
     "engines": {
-        "vscode": "^1.63.0"
+        "vscode": "^1.15.0"
     },
     "categories": [
         "Themes"
@@ -27,5 +27,6 @@
                 "path": "./themes/Halloween-color-theme.json"
             }
         ]
-    }
+    },
+    "publisher": "swordensen"
 }
