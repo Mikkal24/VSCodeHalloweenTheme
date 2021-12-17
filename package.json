@@ -1,0 +1,21 @@
+{
+    "name": "halloween-theme",
+    "displayName": "halloween-theme",
+    "description": "A Halloween Theme for VSCode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Halloween",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Halloween-color-theme.json"
+            }
+        ]
+    }
+}
