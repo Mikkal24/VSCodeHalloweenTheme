@@ -1,7 +1,11 @@
 {
     "name": "halloween-theme",
     "displayName": "halloween-theme",
-    "repository": "https://github.com/Mikkal24/VSCodeHalloweenTheme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Mikkal24/VSCodeHalloweenTheme"
+    },
+    "icon": "images/icon.jpg",
     "description": "A Halloween Theme for VSCode",
     "version": "0.0.1",
     "engines": {
@@ -9,6 +13,11 @@
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "VSCode",
+        "Themes",
+        "Halloween"
     ],
     "contributes": {
         "themes": [
